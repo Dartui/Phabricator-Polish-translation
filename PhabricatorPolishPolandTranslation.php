@@ -120,7 +120,8 @@ final class PhabricatorUSEnglishTranslation
 			'Today' => 'Dziś',
 			'Yesterday' => 'Wczoraj',
 			'Recent Activity' => 'Najnowsza aktywność',
-			
+			'Details' => 'Szczegóły',
+			'Clone' => 'Klonuj',
 			'No daemon(s) with id(s) "%s" exist!' => array(
 				'No daemon with id %s exists!',
 				'No daemons with ids %s exist!',
