@@ -15,6 +15,8 @@ final class PhabricatorUSEnglishTranslation
 			'Save Changes' => 'Zapisz zmiany',
 			'Default (%s)' => 'Domyślne (%s)',
 			'Edit' => 'Edytuj',
+			'Cancel' => 'Anuluj',
+			'Logout' => 'Wyloguj',
 			'Search' => 'Szukaj',
 			'Advanced Search' => 'Zaawansowane wyszukiwanie',
 			'Builtin' => 'Wbudowane',
@@ -23,6 +25,7 @@ final class PhabricatorUSEnglishTranslation
 			'Edit Query' => 'Edytuj zapytanie',
 			'Edit Queries...' => 'Edytuj zapytania...',
 			'Tags' => 'Tagi',
+			'Log out of Phabricator?' => 'Wylogować z Phabricatora?',
 			// http://sjp.pwn.pl/poradnia/haslo/skroty-dni-tygodnia;2315.html
         	'Sun' => 'Niedz.',
 			'Mon' => 'Pon.',
