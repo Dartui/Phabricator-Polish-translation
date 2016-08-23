@@ -649,7 +649,7 @@ $to_translate = array(
 	'Naming Conventions',
 	'Constants should be uppercase.',
 	'Reuse of Iterator References',
-	'Use of Echo Tag `%s`', // values: '<?='
+	'Use of Echo Tag `%s`',
 	'Semicolon Spacing',
 	'Space found before semicolon.',
 	'Paamayim Nekudotayim Spacing',
@@ -679,7 +679,7 @@ $to_translate = array(
 	'Unnecessary semicolons after statement.',
 	'Unable to Parse',
 	'Space After Unary Prefix Operator',
-	'Use of Close Tag `%s`', // values: '?>'
+	'Use of Close Tag `%s`',
 	'`%s` Should Be `%s`', // values: 'is_a', 'instanceof'
 	'`%s` Statement Namespace Prefix', // values: 'use'
 	'Self Member Reference',
@@ -687,7 +687,7 @@ $to_translate = array(
 	'Expected Open Tag',
 	'Spacing Before Array Index',
 	'Convention: no spaces before index access.',
-	'Use of Short Tag `%s`', // values: '<?'
+	'Use of Short Tag `%s`',
 	'`%s` Unreliable', // values: 'array_combine()'
 	'`%s` Used as Expression', // values: 'exit'
 	'Newline After PHP Open Tag',
